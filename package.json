@@ -1,0 +1,14 @@
+{
+  "name": "CypressAutomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^14.1.0"
+  },
+  "scripts": {
+    "cypress": "yarn && cypress open"
+  },
+  "repository": "https://github.com/Arifinwidy02/cypress-automation.git",
+  "author": "Arifinwidy02 <arifin@transfez.com>"
+}
